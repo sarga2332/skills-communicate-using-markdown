@@ -1,5 +1,5 @@
 <header>
-
+# Journey to the end of the Earth
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -8,11 +8,11 @@
 -->
 
 # Communicate using Markdown
-
+### Iceage
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-
+## Formation
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -22,7 +22,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
-
+# The Beginning
 _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
@@ -66,7 +66,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
-
+Made some interesting headings
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
